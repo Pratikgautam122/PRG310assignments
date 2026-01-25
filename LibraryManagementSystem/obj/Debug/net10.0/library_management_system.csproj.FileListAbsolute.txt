@@ -1,0 +1,15 @@
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/bin/Debug/net10.0/library_management_system
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/bin/Debug/net10.0/library_management_system.deps.json
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/bin/Debug/net10.0/library_management_system.runtimeconfig.json
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/bin/Debug/net10.0/library_management_system.dll
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/bin/Debug/net10.0/library_management_system.pdb
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/library_management_system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/library_management_system.AssemblyInfoInputs.cache
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/library_management_system.AssemblyInfo.cs
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/library_management_system.csproj.CoreCompileInputs.cache
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/library_management_system.sourcelink.json
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/library_management_system.dll
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/refint/library_management_system.dll
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/library_management_system.pdb
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/library_management_system.genruntimeconfig.cache
+/Users/pratikgautam/c#/PRG310assignments/LibraryManagementSystem/obj/Debug/net10.0/ref/library_management_system.dll
