@@ -25,7 +25,7 @@ namespace HelloWorld
                 {
                     // Read user input and convert to integer
                     choice = Convert.ToInt32(Console.ReadLine());
-                }
+                } 
                 catch
                 {
                     // Handle invalid input that is not a number
